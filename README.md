@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vini Oliveira
+- 👋 Hi, I’m Vini
 - 👀 I’m interested in find IT professionals and learn more about tech
 - 🌱 I’m currently learning SOLID, Clean Code, Clean Architecture
 
