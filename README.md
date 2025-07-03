@@ -1,10 +1,24 @@
-- 👋 Hi, I’m Vini
-- 👀 I’m interested in find IT professionals and learn more about tech
-- 🌱 I’m currently learning SOLID, Clean Code, Clean Architecture
+# 😐 Vinicius Oliveira
 
-- 📫 How to reach me linkedin.com/in/vinicius-oliveira-a9a237115
+> Senior dev — tired but operational. Basically a human microservice.
 
-<!---
-github.com/vinialexandre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 About Me
+
+- 👨‍💻 I work with React, .NET, Node, and Go... depending on the project’s mood.
+- 🧩 Fan of SOLID, Clean Code, and Clean Architecture — even knowing no one follows them 100% in real life.
+- 📦 I've built monoliths disguised as microservices. And microservices acting like monoliths.
+- 💼 Still pretending everything’s fine in the commits. Spoiler: it’s not.
+
+## 💬 Interests
+
+- Learning more about clean architecture... even when the deploy is on fire.
+- Chatting with devs (the living and the survivors).
+- Talking about tech, productivity, career — and memes, of course.
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/vinioliveirafullstack/) – ping me there, I’ll reply between one bug and another.
+
+---
+
+> “It works on my machine.” — Me, every day
